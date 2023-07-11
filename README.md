@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+## Hola
+### soy Nerina
+* 1
+* 2
+* 3
+* 4 se crea un listado con asterisco
 
 <!--
 **Neri1520/Neri1520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
